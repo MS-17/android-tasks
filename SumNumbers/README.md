@@ -1,4 +1,6 @@
 ## Description
-A simple application that sums 2 numbers and display them on the screen
+A simple application that displays a random film on submit and resets the app state on reset 
 
-![Example](img/img.png)
+![Example](img/films1.png)
+![Example](img/films2.png)
+![Example](img/films3.png)
