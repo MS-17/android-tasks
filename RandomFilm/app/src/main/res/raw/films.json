@@ -1,0 +1,46 @@
+{
+  "films": [
+    {
+      "title": "Film A",
+      "description": "Desc",
+      "rating": 5.7,
+      "year": 2000,
+      "starring": ["A", "B", "C"]
+    },
+    {
+      "title": "Film B",
+      "description": "Desc",
+      "rating": 6.3,
+      "year": 2001,
+      "starring": ["A", "B", "C"]
+    },
+    {
+      "title": "Film C",
+      "description": "Desc",
+      "rating": 9.4,
+      "year": 2005,
+      "starring": ["A", "B", "C"]
+    },
+    {
+      "title": "Film D",
+      "description": "Desc",
+      "rating": 4.3,
+      "year": 2010,
+      "starring": ["A", "B", "C"]
+    },
+    {
+      "title": "Film E",
+      "description": "Desc",
+      "rating": 10.0,
+      "year": 2003,
+      "starring": ["A", "B", "C"]
+    },
+    {
+      "title": "Film F",
+      "description": "Desc",
+      "rating": 9.8,
+      "year": 2004,
+      "starring": ["A", "B", "C"]
+    }
+  ]
+}
