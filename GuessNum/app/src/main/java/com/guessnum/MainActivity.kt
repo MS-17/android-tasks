@@ -17,6 +17,7 @@ class MainActivity : ComponentActivity() {
     }
 
     fun onGuessBtnClick() {
+        // onclick listener function for a guess button
         val gameActivity = Intent(this, GameActivity::class.java)
         val begin = findViewById<EditText>(R.id.begin).text.toString().toInt()
         val end = findViewById<EditText>(R.id.end).text.toString().toInt()
