@@ -27,7 +27,7 @@
                 android:id="@+id/t00"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="00" />
 
@@ -35,7 +35,7 @@
                 android:id="@+id/t01"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="01" />
 
@@ -43,7 +43,7 @@
                 android:id="@+id/t02"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="02" />
 
@@ -51,7 +51,7 @@
                 android:id="@+id/t03"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="03" />
 
@@ -67,7 +67,7 @@
                 android:id="@+id/t10"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="10" />
 
@@ -75,7 +75,7 @@
                 android:id="@+id/t11"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="11" />
 
@@ -83,7 +83,7 @@
                 android:id="@+id/t12"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="12" />
 
@@ -91,7 +91,7 @@
                 android:id="@+id/t13"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="13" />
 
@@ -107,7 +107,7 @@
                 android:id="@+id/t20"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="20" />
 
@@ -115,7 +115,7 @@
                 android:id="@+id/t21"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="21" />
 
@@ -123,7 +123,7 @@
                 android:id="@+id/t22"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="22" />
 
@@ -131,7 +131,7 @@
                 android:id="@+id/t23"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="23" />
 
@@ -147,7 +147,7 @@
                 android:id="@+id/t30"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="30" />
 
@@ -155,7 +155,7 @@
                 android:id="@+id/t31"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="31" />
 
@@ -163,7 +163,7 @@
                 android:id="@+id/t32"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="32" />
 
@@ -171,13 +171,13 @@
                 android:id="@+id/t33"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:background="@drawable/frame"
+                android:background="@color/red"
                 android:onClick="onTileClick"
                 android:tag="33" />
 
 
         </LinearLayout>
-        
+
     </LinearLayout>
 
 </LinearLayout>
